@@ -22,7 +22,7 @@ Komunitas ini untuk membahas hoby bermain game gold and glory bagi penggemar gam
 
 Di samping terdapat beberapa pilihan kategori untuk setiap postingan
 
-# 4. Pengguna bisa Like, commen, edit atau hapus komentar
+# 4. Pengguna bisa Like, commen, edit atau hapus komentar/postingan
 
 <img width="1366" height="728" alt="by 1 sini - Google Chrome 06_07_2026 13 31 04" src="https://github.com/user-attachments/assets/2ab64de9-66f6-470b-ba69-83e7f04967a0" />
 
