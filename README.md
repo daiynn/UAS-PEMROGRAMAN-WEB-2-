@@ -9,11 +9,11 @@ Komunitas ini untuk membahas hoby bermain game gold and glory bagi penggemar gam
 
 # 1. Tampilan Login 
 
-<img width="1366" height="728" alt="THE CATRAP - Google Chrome 06_07_2026 13 28 17" src="https://github.com/user-attachments/assets/30ed60d2-f6d7-499a-a58c-35602569cdda" />
+<img width="1366" height="728" alt="THE CATRAP - Google Chrome 06_07_2026 13 28 24" src="https://github.com/user-attachments/assets/fd4f5ff2-b2d0-4fbc-bf45-336a9a782b68" />
 
 # 2. Tampilan Register
 
-<img width="1366" height="728" alt="THE CATRAP - Google Chrome 06_07_2026 13 28 24" src="https://github.com/user-attachments/assets/fd4f5ff2-b2d0-4fbc-bf45-336a9a782b68" />
+<img width="1366" height="728" alt="THE CATRAP - Google Chrome 06_07_2026 13 28 17" src="https://github.com/user-attachments/assets/30ed60d2-f6d7-499a-a58c-35602569cdda" />
 
 
 # 3. Tampilan Home
