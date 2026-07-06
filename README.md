@@ -26,8 +26,12 @@ Di samping terdapat beberapa pilihan kategori untuk setiap postingan
 
 <img width="1366" height="728" alt="by 1 sini - Google Chrome 06_07_2026 13 31 04" src="https://github.com/user-attachments/assets/2ab64de9-66f6-470b-ba69-83e7f04967a0" />
 
+# 5. Bisa menambahkan postingan, foto, deskripsi, kategori
 
-# 5. Database terhubung ke mysql menggunakan xampp
+<img width="1366" height="728" alt="by 1 sini - Google Chrome 06_07_2026 13 36 50" src="https://github.com/user-attachments/assets/dd3e4a54-666f-4498-843e-41e76472d309" />
+
+
+# 6. Database terhubung ke mysql menggunakan xampp
 
 <img width="1366" height="728" alt="by 1 sini - Google Chrome 06_07_2026 13 32 22" src="https://github.com/user-attachments/assets/5c3c6fa4-c001-4b55-9e06-0da966824bcd" />
 
